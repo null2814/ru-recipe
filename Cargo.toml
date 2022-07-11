@@ -1,0 +1,3 @@
+[workspace]
+
+members = ["recipe", "traffic", "sum_slice", "output_area"]
